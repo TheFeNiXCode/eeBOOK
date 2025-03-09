@@ -2,7 +2,7 @@
 # eeBOOK
 
 eeBOOK is a simple EPUB files reader
-[Download the Project Thesis](./eeBOOKProjectThesis.pdf)
+[Download the Project Thesis](./eeBOOK%20Project%20Thesis.pdf)
 
 
 ## Authors
