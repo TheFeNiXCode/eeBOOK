@@ -1,0 +1,26 @@
+[package]
+name = "eeBookv2"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# GESTIONE GUI
+druid = { git = "https://github.com/linebender/druid.git", features = ["im","svg", "image", "png", "jpeg"]}
+# GESTIONE FILE EPUB
+epub =  { git = "https://github.com/danigm/epub-rs"}
+# GESTIONE FILE ZIP
+zip-extensions = "0.6.1"
+# GESTIONE CARTELLA
+walkdir = "2.3.2"
+# GESTIONE PARSING HTML
+tl = "0.7.7"
+# APERTURA IMMAGINE
+image = "0.24.4"
+eframe = "0.15.0"
+#RICENCA TESTUALE
+regex = "1.6.0"
+
+[target.'cfg(windows)'.build-dependencies]
+winres = "0.1"
