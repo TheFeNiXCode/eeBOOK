@@ -15,8 +15,8 @@ eeBOOK is a simple EPUB files reader created created by two students of the "Sys
 ## Features
 
 - Load and Modify EPUB 
-- OCR Recognition from/to photo
 - Proofreading tool
 - Go to page/chapter
 - Text search
+- OCR Recognition from/to photo (Tesseract 4 must be installed)
 - Help page
