@@ -1,7 +1,7 @@
 
-# eeBook
+# eeBOOK
 
-eeBook is a simple EPUB files reader
+eeBOOK is a simple EPUB files reader
 
 
 ## Authors
