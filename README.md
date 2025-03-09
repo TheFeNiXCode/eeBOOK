@@ -1,8 +1,9 @@
 
 # eeBOOK
 
-eeBOOK is a simple EPUB files reader
-[Download the Project Thesis](./eeBOOK%20Project%20Thesis.pdf)
+eeBOOK is a simple EPUB files reader created from two students from "System and Device Programming" course at Polytechnic of Turin.
+
+[Go to the Project Thesis](./eeBOOK%20Project%20Thesis.pdf)
 
 
 ## Authors
@@ -14,5 +15,8 @@ eeBOOK is a simple EPUB files reader
 ## Features
 
 - Load and Modify EPUB 
-- OCR support
-
+- OCR Recognition from/to photo
+- Proofreading tool
+- Go to page/chapter
+- Text search
+- Help page
