@@ -1,7 +1,7 @@
 
 # eeBOOK
 
-eeBOOK is a simple EPUB files reader created from two students from "System and Device Programming" course at Polytechnic of Turin.
+eeBOOK is a simple EPUB files reader created created by two students of the "System and Device Programming" course at Polytechnic of Turin.
 
 [Go to the Project Thesis](./eeBOOK%20Project%20Thesis.pdf)
 
